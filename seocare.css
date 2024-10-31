@@ -1,0 +1,28 @@
+#seoCareResult,#seoCareResult table{width:100%;}
+#seoCareResult td{padding-top:10px;}
+#seoCareResult td.small{width:150px;}
+#seoCareResult th.left{text-align:left;}
+#seoCareResult #resultList{width: auto;}
+#seoCareResult #resultList td{padding-top:5px;}
+#seoCareResult #resultList td.grade{text-align:right;}
+#seoCareResult #resultList td.message{padding-right:15px;}
+#seoCareResult #resultList td.low{color:#dddddd;}
+#seoCareResult #resultList td.medium{color:#999999;}
+#seoCareResult #resultList td.Final{font-weight:bold; font-size:16px; border-top: 2px solid #000;}
+#seoCareResult #ExecSeoCareCheck{margin-top:12px;}
+#seoCareResult .seocare_input_large{width:100%;}
+#seoCareResult .icon{background:transparent url(/wp-content/plugins/seocare/img/icons.gif) no-repeat scroll -45px -16px; padding-left:20px;}
+#seoCareResult .icon.good{background-position:0 3px;}
+#seoCareResult .icon.medium{background-position:0 -30px;}
+#seoCareResult .icon.bad{background-position:0 -15px;}
+#seoCareResult #SeoCareGrade{font-size:20px; font-weight:bold;}
+#seoCareResult .goodGrade{font-weight:bold; color:#387C31;}
+#seoCareResult .badGrade{font-weight:bold; color:#cc0000;}
+#seoCareResult table.keywordResult{width:200px;}
+#seoCareResult #seocare_Keywords_Result th{width: 100px; font-weight:bold;}
+
+#seocare-table {width:100%;}
+#seocare-table td{line-height:30px; margin:0px; padding:0px;}
+#seocare-table h3{font-size: 16px; margin:10px 0 0 0;}
+#seocare-table h4{font-size: 13px; margin:10px 0 0px 0;}
+

@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SeoCare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-26 16:06+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampplite\\htdocs\\wordpress\\wp-content\\plugins\\SeoCare\n"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seocare_option.php:57
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:424
+msgid "Save Changes"
+msgstr "Veranderingen opslaan"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:91
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:339
+msgid "Keywords"
+msgstr "Kernwoorden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:94
+msgid "Seperate keywords with commas"
+msgstr "kernwoorden scheiden met komma's"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:100
+msgid "Keyword"
+msgstr "Kernwoord"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:100
+msgid "Density"
+msgstr "Woord dichtheid"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:112
+msgid "SeoCare check"
+msgstr "SeoCare controle"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:115
+msgid "Final result"
+msgstr "Resultaat"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:146
+msgid "You can publish this post"
+msgstr "Je kan dit artikel publiceren"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:147
+msgid "You can't publish this post until you have a grade higher than 6."
+msgstr "Je kan dit artikel niet publiceren zolang je een punt onder de 6 hebt"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:154
+msgid "Title is not empty"
+msgstr "De titel is niet leeg"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:155
+msgid "The title can't be empty"
+msgstr "De titel mag niet leeg zijn"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:160
+msgid "Title has enough words"
+msgstr "De titel heeft genoeg woorden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:161
+#, php-format
+msgid "The title should have between %d and %d words."
+msgstr "De titel moet tussen de %d en de %d woorden zijn."
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:166
+msgid "The title contains no forbidden words"
+msgstr "De titel bevat geen verboden woorden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:167
+msgid "The title contains forbidden words."
+msgstr "De titel bevat verboden woorden."
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:174
+msgid "The text has a correct ammount of words"
+msgstr "De tekst heeft het juiste aantal woorden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:175
+#, php-format
+msgid "The text should have between %d and %d words"
+msgstr "De tekst moet tussen de %d en de %d woorden bevatten"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:182
+msgid "There are keyword(s) in the title"
+msgstr "Er zitten kernwoord(en) in de titel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:183
+msgid "There should be keyword(s) in the title"
+msgstr "Er moeten kernwoord(en) in de titel zitten"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:188
+msgid "The keywords appear enough in this post"
+msgstr "De kernwoorden komen voldoende voor in de tekst"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:189
+#, php-format
+msgid "The keywords should have a density between %d%% and %d%%"
+msgstr "De kernwoorden moeten een dichtheid hebben tussen %d%% en %d%%"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:196
+msgid "The tags appear in this post"
+msgstr "De tags komen in de tekst voor"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:197
+#, php-format
+msgid "At least %d tag(s) should appear %d time(s) in this post"
+msgstr "Minstens %d tag(s) moet(en) %d keer voorkomen in dit artikel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:209
+msgid "SeoCare"
+msgstr "SeoCare"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:217
+msgid "General"
+msgstr "Algemeen"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:218
+msgid "General Explanation text"
+msgstr "Algmene uitleg"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:226
+msgid "Disallow to publish an article with a grade lower than 6"
+msgstr "Verbied een artikel te publiceren met een punt lager dan een 6"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:231
+msgid "Title"
+msgstr "Titel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:234
+msgid "Title not empty"
+msgstr "Geen lege titel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:240
+msgid "Cannot be empty"
+msgstr "Kan niet leeg zijn"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:247
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:275
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:299
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:328
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:354
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:381
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:407
+msgid "Enabled"
+msgstr "Activeren"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:252
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:280
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:304
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:333
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:359
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:386
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:412
+msgid "Mandatory"
+msgstr "Verplicht"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:257
+msgid "Title number of words"
+msgstr "Aantal woorden in de titel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:262
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:315
+msgid "Min"
+msgstr "Min"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:266
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:319
+msgid "Max"
+msgstr "Max"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:269
+msgid "Number of words in the title"
+msgstr "Aantal woorden in de titel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:285
+msgid "Title disallowed words"
+msgstr "Verboden woorden in de titel"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:289
+msgid "the,on,in"
+msgstr "de,op,in"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:290
+msgid "Disallowed words"
+msgstr "Verboden woorden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:292
+msgid "(Seperate words with commas)"
+msgstr "(Scheid de woorden met komma's)"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:309
+msgid "Text"
+msgstr "Tekst"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:311
+msgid "Text number of words"
+msgstr "Aantal woorden in de tekst"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:322
+msgid "Number of words in the text"
+msgstr "Aantal woorden in de tekst"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:340
+msgid "Explanation Keywords"
+msgstr "Uitleg kernwoorden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:348
+msgid "Keywords has to be in the title"
+msgstr "Er moeten kernwoorden in de titel voorkomen"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:366
+msgid "Keywords should have a density between"
+msgstr "De woordichtheid van de kernwoorden moet zitten tussen"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:368
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:397
+msgid "Minimal"
+msgstr "Minimaal"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:373
+msgid "Maximal"
+msgstr "Maximaal"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:392
+msgid "Tags"
+msgstr "Tags"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:399
+msgid "tag(s) should be"
+msgstr "tag(s) zouden"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:401
+msgid "time(s) in the post"
+msgstr "keer in het artikel moeten voorkomen"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:428
+msgid "More information?"
+msgstr "Meer informatie?"
+
+#: C:\xampplite\htdocs\wordpress\wp-content\plugins\SeoCare/seo_care.php:429
+msgid "This plugin is made by <a href='http://www.vakanties.nl'>Vakanties.nl</a> for more information go to <a href='http://www.vakanties.nl/seocare/'>http://www.Vakanties.nl/seocare/</a>"
+msgstr "Deze plugin is gemaakt door <a href='http://www.vakanties.nl'>Vakanties.nl</a> voor meer informatie ga naar <a href='http://www.vakanties.nl/seocare/'>http://www.Vakanties.nl/seocare/</a>"
+
